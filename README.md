@@ -1,4 +1,5 @@
-= BroccoliRails
+BroccoliRails
+===
 
 Quick and dirty hack to use Broccoli with Rails. May eventually evolve into something more stable.
 
