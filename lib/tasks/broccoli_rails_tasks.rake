@@ -1,4 +1,3 @@
-# desc "Explaining what the task does"
-# task :broccoli_rails do
-#   # Task goes here
-# end
+task "assets:precompile" do
+  exec "broccoli build public/assets/client"
+end
